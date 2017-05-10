@@ -1,0 +1,30 @@
+body {
+	background-color: slategray;
+	text-align: center;
+}
+
+h1{
+	color: cyan;
+	font-size: 40px;
+	margin: 45px 0px 10px;
+}
+
+#timer-div {
+	background-color: #00ECB9;
+	text-align: center;
+	color: black;
+	display: inline-block;
+	font-size: 30px;
+}
+
+#timer-div > div {
+
+}
+
+.time-unit, .time-unit > span {
+	padding: 14px;
+	border-radius: 3px;
+	background: #00816A;
+	display: inline-block;
+}
+
